@@ -1,0 +1,15 @@
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.csproj.AssemblyReference.cache
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.AssemblyInfo.cs
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\bin\Debug\net7.0\rockpaperscissors.exe
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\bin\Debug\net7.0\rockpaperscissors.deps.json
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\bin\Debug\net7.0\rockpaperscissors.runtimeconfig.json
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\bin\Debug\net7.0\rockpaperscissors.dll
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\bin\Debug\net7.0\rockpaperscissors.pdb
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.dll
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\refint\rockpaperscissors.dll
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.pdb
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\rockpaperscissors.genruntimeconfig.cache
+C:\Users\varsa\OneDrive\Escritorio\rockpaperscissors\obj\Debug\net7.0\ref\rockpaperscissors.dll
